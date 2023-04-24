@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋</h1>
+
+![slipknot-joey-jordison](https://user-images.githubusercontent.com/85758996/234059538-47b29c55-c26c-4367-ab15-1a0b5cde28fe.gif)
 
 
 
